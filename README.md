@@ -27,13 +27,13 @@
 <div>
    <p align="center">
       <a href="https://linkedin.com/in/YahavBarDavid" target="_blank">
-         <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=social&logo=linkedin&logoColor=white"/>
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white"/>
       </a>
             <a href="mailto:Yahav.BarDavid@gmail.com" target="_blank">
-         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=social&logo=gmail&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/>
       </a>
 	  <a href="https://wa.me/+9720509060730" target="_blank">
-         <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=social&logo=whatsapp&logoColor=white"/>
+         <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat&logo=whatsapp&logoColor=white"/>
       </a>
    </p>
 </div>
