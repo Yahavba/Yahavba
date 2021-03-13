@@ -29,7 +29,7 @@
       <a href="https://linkedin.com/in/YahavBarDavid" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white"/>
       </a>
-            <a href="mailto:Yahav.BarDavid@gmail.com" target="_blank">
+      <a href="mailto:Yahav.BarDavid@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/>
       </a>
 	  <a href="https://wa.me/+9720509060730" target="_blank">
