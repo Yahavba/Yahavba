@@ -11,7 +11,7 @@
 ## My Projects
 
 ### Web Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=B7Fun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=B7Fun)](https://github.com/Yahavba/B7Fun)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=College-portal)](https://github.com/anuraghazra/github-readme-stats)
 
