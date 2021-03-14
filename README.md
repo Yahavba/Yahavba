@@ -13,19 +13,19 @@
 ### Web Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=B7Fun)](https://github.com/Yahavba/B7Fun)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=College-portal)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=College-portal)](https://github.com/Yahavba/College-portal)
 
 ### Data Science Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Simple-machine-learning-classifier-tool)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Simple-machine-learning-classifier-tool)](https://github.com/Yahavba/Simple-machine-learning-classifier-tool)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Image-classification-zero-shot-learning)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Image-classification-zero-shot-learning)](https://github.com/Yahavba/Image-classification-zero-shot-learning)
 
 ### Other Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=C-family-Compiler)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=C-family-Compiler)](https://github.com/Yahavba/C-family-Compiler)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Game-Box)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Game-Box)](https://github.com/Yahavba/Game-Box)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Minesweeper)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Minesweeper)](https://github.com/Yahavba/Minesweeper)
 
 ---
 <div>
