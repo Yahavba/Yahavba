@@ -6,6 +6,8 @@
 
 - 🌱 *I’m currently learning* **CSS and JavaScript**.
 
+- 👯 *I’m looking to collaborate on* **fullstack\backend applications**.
+
 ## My Projects
 
 ### Web Projects
