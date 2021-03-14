@@ -18,6 +18,8 @@
 ### Data Science Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Simple-machine-learning-classifier-tool)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Image-classification-zero-shot-learning)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Other Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=C-family-Compiler)](https://github.com/anuraghazra/github-readme-stats)
 
