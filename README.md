@@ -4,7 +4,7 @@
 
 - 🔭 *I’m currently working on* **my college final project which focuses on neural style transfer (deep learning)**.
 
-- 🌱 *I’m currently learning* **CSS and JavaScript**.
+- 🌱 *I’m currently learning* **CSS, JavaScript, MongoDB and Web Development Technologies**.
 
 - 👯 *I’m looking to collaborate on* **fullstack\backend applications**.
 
