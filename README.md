@@ -2,7 +2,7 @@
 
 ## About
 
-- 🔭 *I’m currently working on* **my college final project which focuses on neural style transfer (deep learning)**.
+- 🔭 *I’m currently working on* **web development projects to improve my knowledge and familiarity with these technologies**.
 
 - 🌱 *I’m currently learning* **CSS, JavaScript, MongoDB and Web Development Technologies**.
 
