@@ -16,6 +16,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=College-portal)](https://github.com/Yahavba/College-portal)
 
 ### Data Science Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=HStyle)](https://github.com/Yahavba/HStyle)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Simple-machine-learning-classifier-tool)](https://github.com/Yahavba/Simple-machine-learning-classifier-tool)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yahavba&repo=Image-classification-zero-shot-learning)](https://github.com/Yahavba/Image-classification-zero-shot-learning)
